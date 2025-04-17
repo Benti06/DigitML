@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DigitML</string>
+    <string name="load">Invia</string>
+    <string name="intest">Trasforma il tuo disegno in numeri\ncon l\'intelligenza artificiale!</string>
+    <string name="result">Il numero da te disegnato è: </string>
+    <string name="annulla">Annulla</string>
+    <string name="ok">OK</string>
+    <string name="seleziona">Seleziona un valore</string>
+    <string name="visita">Visita il nostro sito</string>
+    <string name="IP">Inserire l\'IP</string>
+    <string name="URL">Inserire l\'URL</string>
+    <string name="cifre">Cifre</string>
+    <string name="lettere">lettere</string>
+    <string name="disegno">a mano</string>
+    <string name="disegnaMano">Disagna a mano nel riquadro qua sotto</string>
+    <string name="sensore">coi sensori</string>
+    <string name="disegnaSensori">Cliccare un punto per iniziare e un\'altro per concludere</string>
+    <string name="err1">Problema col server\nassicurati di essere nella stessa rete</string>
+    <string name="err2">Immagine Vuota</string>
+    <string name="err3">Non valida</string>
+    <string name="err4">Connesione fallita</string>
+    <string name="err5">Errore nella risposta</string>
+    <string name="err6">Errore nell URL</string>
+</resources>
